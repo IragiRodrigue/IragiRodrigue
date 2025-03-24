@@ -14,12 +14,6 @@ Innovation has always been a driving force in my life. We live in a world where 
 - **APIs & Integrations:** Sinch (SMS Verification), Custom API Development
 - **Other:** Business Plan Management, KYC Systems, Transaction Handling, Large Language Models (LLMs)
 
-## 🔥 What I'm Working On
-
-- Developing a **KYC System** with Django for user verification
-- Enhancing business plan filtering and sales forecast reporting
-- Implementing a **React Native** project with `expo-camera` for scanning functionality
-- Improving **attendance tracking** with Tkinter and MySQL
 
 ## 🌟 Looking Forward To
 
