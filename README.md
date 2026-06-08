@@ -95,7 +95,7 @@ My goal is to become the **first Iragi Rodrigue**.
 
 🌐 Website: https://lipaxe.com
 
-💼 LinkedIn: [https://www.linkedin.com/in/rodrigue-iragi-120263315?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+💼 LinkedIn: https://www.linkedin.com/in/rodrigue-iragi-120263315?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📧 Email: rodrigueiragi1@gmail.com
 
