@@ -2,7 +2,7 @@
 
 I'm **Rodrigue Iragi**, a passionate Full-Stack Developer, entrepreneur, and researcher currently exploring the intersection of **FinTech**, **Artificial Intelligence**, **Computer Vision**, and **Biomedical Technology**.
 
-🚀 Founder of **Lipaxe**, a digital payment platform serving hundreds of users.
+🚀 Co-Founder of **Lipaxe**, a digital payment platform serving hundreds of users.
 
 💻 Specialized in **Django REST Framework**, **React Native**, **Python**, and scalable backend systems.
 
